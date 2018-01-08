@@ -1,4 +1,4 @@
 file 'default www' do
-        path '/var/www/thml/index.html'
+        path '/var/www/html/index.html'
         content 'Hello World'
 end
